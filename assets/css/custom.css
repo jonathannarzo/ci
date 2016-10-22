@@ -1,0 +1,11 @@
+.content { min-height: 1000px; }
+.page-tools {
+	background: #eee;
+	padding: 8px;
+}
+.page-tools.tools-right {
+	text-align: right;
+}
+.modal {
+	overflow-y: auto;
+}
